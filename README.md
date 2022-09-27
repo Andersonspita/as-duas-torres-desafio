@@ -8,3 +8,9 @@ A entrada é composta por 3 inteiros, N(0 &lt; N &lt; 10000), X e Y(0 &lt; X, Y 
 Saída
 
 Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais.
+
+Exemplos de Entrada	
+100 2 2
+
+Exemplos de Saída
+25.00
